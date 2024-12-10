@@ -1,4 +1,0 @@
-NAME REM.COM
-
-EXPORTS
-    YoriMain=YoriCmd_REM

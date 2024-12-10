@@ -1,4 +1,0 @@
-NAME EXIT.COM
-
-EXPORTS
-    YoriMain=YoriCmd_EXIT

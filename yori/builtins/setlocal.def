@@ -1,4 +1,0 @@
-NAME SETLOCAL.COM
-
-EXPORTS
-    YoriMain=YoriCmd_SETLOCAL

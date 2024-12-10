@@ -1,4 +1,0 @@
-NAME JOB.COM
-
-EXPORTS
-    YoriMain=YoriCmd_JOB

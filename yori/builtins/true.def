@@ -1,4 +1,0 @@
-NAME TRUE.COM
-
-EXPORTS
-    YoriMain=YoriCmd_TRUE

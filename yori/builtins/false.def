@@ -1,4 +1,0 @@
-NAME FALSE.COM
-
-EXPORTS
-    YoriMain=YoriCmd_FALSE

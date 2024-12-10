@@ -1,4 +1,0 @@
-NAME DIRENV.COM
-
-EXPORTS
-    YoriMain=YoriCmd_DIRENV

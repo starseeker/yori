@@ -1,4 +1,0 @@
-NAME BUILTIN.COM
-
-EXPORTS
-    YoriMain=YoriCmd_BUILTIN

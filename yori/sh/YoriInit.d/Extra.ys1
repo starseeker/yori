@@ -1,2 +1,0 @@
-builtin alias -s shutdn=yshutdn $*$
-builtin alias -s stride=ystride $*$
